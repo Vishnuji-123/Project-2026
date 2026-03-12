@@ -1,4 +1,4 @@
-# 🚀 Firstrade
+# Firstrade
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Firstrade+Trading+Analytics+Platform;MT5+API+Integrated+Trading+Dashboard;Analyze+Trades+Like+a+Pro" />
@@ -19,17 +19,7 @@
 
 - [About Firstrade](#-about-firstrade)
 - [Live Features](#-live-features)
-- [Platform Workflow](#-platform-workflow)
 - [Tech Stack](#-tech-stack)
-- [Project Structure](#-project-structure)
-- [Installation](#-installation)
-- [Run the Project](#-run-the-project)
-- [Analytics Engine](#-analytics-engine)
-- [Screenshots](#-screenshots)
-- [Future Roadmap](#-future-roadmap)
-- [Contributing](#-contributing)
-- [Author](#-author)
-
 ---
 
 # 📊 About Firstrade
@@ -77,4 +67,14 @@ This project demonstrates **API integration, financial data processing, and trad
 
 ---
 
-# 🔄 Platform Workflow
+# 🛠 Tech Stack
+
+| Layer | Technology |
+|------|-------------|
+| Frontend | HTML, CSS, JavaScript |
+| Backend | Python / Node.js |
+| API | MetaTrader 5 API |
+| Visualization | Chart.js / Trading Charts |
+| Data Processing | Python Analytics |
+
+---
